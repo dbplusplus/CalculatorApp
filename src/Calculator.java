@@ -6,4 +6,6 @@ public class Calculator {
     public int subtrahierer(int a, int b){
         return a-b;
     }
+
+    public int multiplizierer(int a, int b){return a * b;}
 }
